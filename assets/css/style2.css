@@ -19,7 +19,7 @@ body {
     content: "";
     position: fixed;
     background: #020202;
-    background-image: url("img/me.jpg");
+    background-image: url("assets/img/backgroundimg2.jpg");
     background-size: cover;
     left: 0;
     right: 0;
